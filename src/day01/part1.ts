@@ -14,7 +14,6 @@ export function part1(input: string): number {
   right.sort((a, b) => a - b);
   left.sort((a, b) => a - b);
 
-  console.log(right);
   let sum = 0;
 
   for (let i = 0; i < left.length; i++) {
