@@ -52,7 +52,7 @@ This command generate these files:
 You can configure the automatic input download from the Advent of Code
 session token.
 
-For dowload the inputs from web, you needs to set the environment var
+For download the inputs from web, you needs to set the environment var
 `AOC_SESSION`. You can to get the session token from the cookie web browser.
 
 Also can you set the `AOC_YEAR` to select a certain year.
