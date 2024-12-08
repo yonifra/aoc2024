@@ -1,6 +1,6 @@
-# Advent of Code Typescript Starter
+# Advent of Code 2024
 
-A template for [Advent of Code](https://adventofcode.com) written in Typescript with Node.
+Code solutions for [Advent of Code 2024](https://adventofcode.com) written in Typescript with Node.
 
 ## Usage
 
@@ -20,11 +20,11 @@ as typescript transpiler and [swc](https://swc.rs) with [Jest](https://jestjs.io
     $ npm test day01
 
     # run the day01
-    # npm start day01
+    $ npm start day01
 
 ## Generate
 
-You can generate all necesary files for use in the event with a simple
+You can generate all necessary files for use in the event with a simple
 command:
 
     $ npm run gen day01
